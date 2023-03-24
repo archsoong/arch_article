@@ -1,0 +1,79 @@
+BC#2 Three important concepts for buying and selling virtual currency and NFT: password, handling fee, and gold flow
+After I got in touch with virtual currency and NFT for a month, I sorted out the three most important concepts: manage your passwords well, almost all actions on the blockchain cost money, and understand the cash flow channels at your disposal.
+
+Why write this?
+Originally, I wanted to write some knowledge about NFT and virtual currency, but I feel that the application is more useful to everyone, and I have experienced it myself, so I wrote it while my memory was fresh.
+
+POINT 1: Manage your passwords well
+When you come to the decentralized world from centralized services (banks, Facebook, Google), the first thing you need to pay attention to is to change the concept of "password".
+
+If you forget the password in the centralized service, you can reset it through the ID card or mailbox, but in the decentralized world, basically, there is no way to retrieve the lost password, yes, you didn’t read it Wrong, there is no way to get it back.
+
+In the same way, if someone else has your password, it is equivalent to owning all the digital assets under this account, and he can transfer your assets anywhere at will.
+
+Note: The passwords in the text include notation words and other materials used to authenticate identities.
+
+Four Tips for Managing Your Passwords
+Use cold wallets to store digital assets
+Do not accept any browser cookies
+Don't use "copy and paste" passwords, make sure to type them by hand
+Don’t store passwords on computers or in the cloud, please write them on paper and fold them and hide them. I heard that some people even engraved them on iron sheets
+
+It’s safer to write it down — picture taken from: https://www.bbc.com/ukchina/trad/50302822
+Note: The online wallet account is a hot wallet, while the cold wallet is a hardware wallet.
+
+POINT 2: Almost all actions on the blockchain cost money
+Whether it is a bank transfer or buying and selling stocks, there will be a handling fee, which is the same on the blockchain, but the amount may be larger than you imagined, and the application level of the handling fee is wider.
+
+First of all, if you buy an NFT with virtual currency, you will need to pay:
+
+Price of NFTs
+Smart contract fees for trading NFTs
+If you want to send NFT to a friend, you also need to pay the "transfer NFT fee".
+
+If you want to move virtual currency from account A to account B, you also need to pay the "moving virtual currency fee".
+
+Example 1: I used a certain platform to mine for a month (2021/12), and the value was about 2,500 NT dollars. Then I wanted to raise it, and the handling fee accounted for about 2,000 NT dollars.
+
+Example 2: I opened two hot wallets and transferred the ether from account 1 to account 2. The cost of this process was $50, so only $160 was left after transferring the $210 worth of ether.
+
+
+Gas fee = Gas price x Gas limit
+Everyone must be clear that since transactions on the blockchain are completed through smart contracts, users must pay the gas fee of the smart contract to start the transaction. This is a price extended by automated transactions.
+
+Different blockchains have different gas fees, so not all gas fees are as expensive.
+
+Two Tips for Managing Fees
+Always confirm the handling fee of the platform transaction first. Different platforms have different calculation methods. Some use a fixed handling fee, some use a ratio, and some can waive the handling fee if the conditions are met
+Unless you think the account is dangerous, otherwise you don’t need to move your digital assets. You can also set which accounts are responsible for which assets from the beginning, which can reduce the number of moves
+POINT 3: Understand the cash flow channels at your disposal
+If we want to exchange money into virtual currency, we first need to store value, commonly known as "deposit", and if we want to take it out, it is "withdrawal". If you are in Taiwan, you basically hope to use "New Taiwan dollars to deposit".
+
+If you want to deposit with NTD, there are two channels:
+
+Swipe the credit card, and the money will come out
+Apply for a Taiwan dollar exchange account, remit money by transfer, and then buy virtual currency
+Note: The Taiwan dollar exchange is legal and approved by the Financial Supervisory Commission. Currently, I know of ACE, BitoPro, MAX and MAICOIN, and Pionex.
+
+
+The Taiwan dollar exchange is a legal exchange approved by the Financial Supervisory Commission
+Usually the scale of the Taiwan dollar exchange is not very large, it is just convenient for you to transfer money into the blockchain world, then you will want to transfer the funds to a larger virtual currency exchange.
+
+Note: Virtual currency exchanges provide a variety of virtual currency trading, such as Binance (Binance), Bybit, Coinbase, Crypto.com, etc. Each exchange is supported by different institutions and units, so it has its own characteristics.
+
+In addition to providing services for buying and selling virtual currencies, these virtual currency exchanges can also pledge some virtual currencies to receive interest or newly issued virtual currencies, and even play leverage. The services can be said to be everything, and platform coins will also be launched for supporters to buy; It is easy to lose yourself if you are not careful, remember to carefully assess the risks.
+
+
+Virtual currency exchanges provide a very diverse range of virtual currency financial products
+Note: The accounts that store virtual currency on these exchanges are also hot wallets, and you don’t need to worry about losing your password due to centralized management, but there is still a chance of being attacked by hackers. Sometimes the entire exchange is attacked and leads to huge amounts of money. loss.
+
+Of course, if you make a lot of money in virtual currency, you will also want to exchange it for NT dollars. Currently, the method I know is to use the VISA card provided by Crypto.com to withdraw funds directly through the Taiwan dollar exchange. Withdrawal or credit card transactions, provided you have stored value at Crypto.com.
+
+
+Crypto.com VISA Card, One of Virtual Currency Artifacts
+Are there any other issues to be aware of?
+I can only say that the blockchain world is developing very rapidly, and new things will bring more excitement and more problems. When you join the currency circle (virtual currency circle), there is a sentence that you will often hear: DYOR.
+
+DYOR: DO YOUR OWN RESEARCH.
+
+Please evaluate investments carefully and do your own research on the risks. ~ Everything Artest
